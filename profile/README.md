@@ -1,7 +1,7 @@
 # hAPPy developers
 
 Welcome to the official GitHub page of hAPPy Developers! We are a group of
-10 passionate students from the 
+ten passionate students from the 
 [Department of Computer Science and Engineering, IIT Kanpur](https://www.cse.iitk.ac.in),
 working together to create innovative software solutions. 
 The repository [*Lostify*](https://github.com/CS253-Group-6/Lostify)
@@ -14,15 +14,15 @@ offered in Winter 2025 and instructed by
 
 Below are the details of the team members:
 
-|                Name                |                            Email                            |
-|------------------------------------|-------------------------------------------------------------|
-| Aayush Kumar                       | [aayushk23@iitk.ac.in](mailto:aayushk23@iitk.ac.in)         |
-| Aman Raj                           | [amanraj23@iitk.ac.in](mailto:amanraj23@iitk.ac.in)         |
-| Anirudh Cheriyachanaseri Bijay     | [anirudhcb23@iitk.ac.in](mailto:anirudhcb23@iitk.ac.in)     |
-| Ayush Patel                        | [ayushpatel22@iitk.ac.in](mailto:ayushpatel22@iitk.ac.in)   |
-| Krishna Kumayu                     | [kkrishna23@iitk.ac.in](mailto:kkrishna23@iitk.ac.in)       |
-| Marada Teja Satvik                 | [maradateja23@iitk.ac.in](mailto:maradateja23@iitk.ac.in)   |
-| Satwik Raj Wadhwa                  | [satwikraj23@iitk.ac.in](mailto:satwikraj23@iitk.ac.in)     |
-| Shaurya Johari                     | [shauryaj23@iitk.ac.in](mailto:shauryaj23@iitk.ac.in)       |
-| Somaiya Narayan Aniruddh           | [snarayana@iitk.ac.in](mailto:snarayana@iitk.ac.in)         |
-| Vinay Chavan                       | [vinay23@iitk.ac.in](mailto:vinay23@iitk.ac.in)             |
+|                Name                |                            Email                            |                          GitHub                          |
+|------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
+| Aayush Kumar                       | [aayushk23@iitk.ac.in](mailto:aayushk23@iitk.ac.in)         | [@AayushKumar26](https://github.com/AayushKumar26)       |
+| Aman Raj                           | [amanraj23@iitk.ac.in](mailto:amanraj23@iitk.ac.in)         | [@APOLCLP](https://github.com/APOLCLP)                   |
+| Anirudh Cheriyachanaseri Bijay     | [anirudhcb23@iitk.ac.in](mailto:anirudhcb23@iitk.ac.in)     | [@anirudh-bijay](https://github.com/anirudh-bijay)       |
+| Ayush Patel                        | [ayushpatel22@iitk.ac.in](mailto:ayushpatel22@iitk.ac.in)   | [@Ayush0018](https://github.com/Ayush0018)               |
+| Krishna Kumayu                     | [kkrishna23@iitk.ac.in](mailto:kkrishna23@iitk.ac.in)       | [@KrishnaKumayu](https://github.com/KrishnaKumayu)       |
+| Marada Teja Satvik                 | [maradateja23@iitk.ac.in](mailto:maradateja23@iitk.ac.in)   | [@tejasatvik](https://github.com/tejasatvik)             |
+| Satwik Raj Wadhwa                  | [satwikraj23@iitk.ac.in](mailto:satwikraj23@iitk.ac.in)     | [@Satwik-Raj](https://github.com/Satwik-Raj)             |
+| Shaurya Johari                     | [shauryaj23@iitk.ac.in](mailto:shauryaj23@iitk.ac.in)       | [@EntityY256](https://github.com/EntityY256)             |
+| Somaiya Narayan Aniruddh           | [snarayana@iitk.ac.in](mailto:snarayana@iitk.ac.in)         | [@narayaniitk23-27](https://github.com/narayaniitk23-27) |
+| Vinay Chavan                       | [vinay23@iitk.ac.in](mailto:vinay23@iitk.ac.in)             | [@VinayChavan2006](https://github.com/VinayChavan2006)   |
